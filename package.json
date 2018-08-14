@@ -1,0 +1,22 @@
+{
+    "name": "o2-vscode-bright",
+    "displayName": "o2-vscode-bright",
+    "description": "bright theme for vscode",
+    "version": "0.0.1",
+    "publisher": "o2dazone",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "o2 bright",
+                "uiTheme": "vs-dark",
+                "path": "./themes/o2 bright-color-theme.json"
+            }
+        ]
+    }
+}
