@@ -335,7 +335,9 @@
     {
       "name": "CSS tags",
       "scope": [
-        "entity.name.tag.css"
+        "entity.name.tag.css",
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name.pseudo-element.css"
       ],
       "settings": {
         "foreground": "#cabeaf"
