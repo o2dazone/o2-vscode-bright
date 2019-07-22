@@ -2,7 +2,7 @@
   "name": "o2 bright",
   "type": "dark",
   "colors": {
-    "editor.background": "#1c1c1c",
+    "editor.background": "#262626",
     "editor.foreground": "#d4d4d4",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#262626",
@@ -20,9 +20,9 @@
     "panel.border": "#ffffff00",
     "scrollbar.shadow": "#ffffff00",
     "scrollbarSlider.activeBackground": "#262626",
-    "scrollbarSlider.background": "#ffffff00",
-    "scrollbarSlider.hoverBackground": "#ffffff00",
-    "editorLineNumber.foreground": "#444"
+    "scrollbarSlider.background": "#ffffff11",
+    "scrollbarSlider.hoverBackground": "#ffffff22",
+    "editorLineNumber.foreground": "#333"
   },
   "tokenColors": [
     {
