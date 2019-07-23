@@ -12,7 +12,7 @@
     "editorGroupHeader.tabsBackground": "#ffffff00",
     "editorGroup.dropBackground": "#ffffff00",
     "editorGroup.border": "#ffffff00",
-    "editor.lineHighlightBackground": "#262626",
+    "editor.lineHighlightBackground": "#2a2a2a",
     "tab.activeBackground": "#262626",
     "tab.inactiveForeground": "#444",
     "tab.inactiveBackground": "#ffffff00",
@@ -108,6 +108,8 @@
       "name": "Punctuation",
       "scope": [
         "meta.brace.round.js",
+        "meta.brace.curly.js",
+        "meta.brace.square.js",
         "punctuation.definition.binding-pattern.object.js",
         "punctuation.separator.inheritance.php",
         "punctuation.definition.tag.html",
@@ -300,7 +302,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#666"
+        "foreground": "#9a9a9a"
       }
     },
     {
