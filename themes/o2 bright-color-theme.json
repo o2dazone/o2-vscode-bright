@@ -17,7 +17,7 @@
     "tab.inactiveForeground": "#444",
     "tab.inactiveBackground": "#ffffff00",
     "tab.border": "#ffffff00",
-    "panel.border": "#ffffff00",
+    "panel.border": "#444444cc",
     "scrollbar.shadow": "#ffffff00",
     "scrollbarSlider.activeBackground": "#262626",
     "scrollbarSlider.background": "#ffffff11",
