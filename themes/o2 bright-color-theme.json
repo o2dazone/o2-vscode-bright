@@ -11,7 +11,7 @@
     "editor.selectionBackground": "#c90fc9",
     "editorGroupHeader.tabsBackground": "#ffffff00",
     "editorGroup.dropBackground": "#ffffff00",
-    "editorGroup.border": "#ffffff00",
+    "editorGroup.border": "#ffffff11",
     "editor.lineHighlightBackground": "#2a2a2a",
     "tab.activeBackground": "#262626",
     "tab.inactiveForeground": "#444",
@@ -22,13 +22,12 @@
     "scrollbarSlider.activeBackground": "#262626",
     "scrollbarSlider.background": "#ffffff11",
     "scrollbarSlider.hoverBackground": "#ffffff22",
-    "editorLineNumber.foreground": "#333"
+    "editorLineNumber.foreground": "#444"
   },
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#eeDDDDDD",
-        "background": "#263238ff"
+        "foreground": "#eeDDDDDD"
       }
     },
     {
@@ -642,7 +641,6 @@
         "markup.quote punctuation.definition.blockquote.markdown"
       ],
       "settings": {
-        "background": "#65737E",
         "foreground": "#65737E"
       }
     },
@@ -737,7 +735,6 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "background": "#00000050",
         "foreground": "#65737E"
       }
     },
